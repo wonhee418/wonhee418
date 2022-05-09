@@ -6,7 +6,7 @@
 
 <div align="center">
   
-![Wonhee’s GitHub stats](https://github-readme-stats.vercel.app/api?username=wonhee&show_icons=true&theme=graywhite)
+![Wonhee’s GitHub stats](https://github-readme-stats.vercel.app/api?username=wonhee418&show_icons=true&theme=graywhite)
   
 </div>  
 
