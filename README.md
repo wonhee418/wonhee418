@@ -18,10 +18,12 @@ public class UserService {
     public MeResponseDto introduce() throws IllegalArgumentException {
         Me me = Me.builder()
                 .name("김원희")
+                .gender("male")
                 .birth(19960418)
                 .bloodType("A")
                 .MBTI("ISFP")
-                .position("Back-end")
+                .position("Backend Developer")
+                .hobby("music🎧🎤, Bowling🎳, Ping-pong🏓, games🎮, movies🎬, guitar🎸")
                 .build();
                 
         meRepository.save(me);
@@ -33,10 +35,6 @@ public class UserService {
     }
 }
 ```
-
-#### <div align="center">I'm web developer using Java Spring boot. 👋</div> 
-#### <div align="center">🍎</div>
-#### <div align="center">🍏</div>
 
 <div align="center">
   
@@ -51,7 +49,6 @@ public class UserService {
 ## 🏋🏼‍♀️ Skills
 </br>
 <div align="center">
-
 <img src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
@@ -62,8 +59,6 @@ public class UserService {
 <img src="https://img.shields.io/badge/mysql-%2300f?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
 <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=WebRTC&logoColor=white">
-
-  
 </div>  
 </br>
 
@@ -80,7 +75,17 @@ public class UserService {
 <img src="https://img.shields.io/badge/Synology-B5B5B6?style=for-the-badge&logo=Synology&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-  
-
-  
 </div>
+
+##  SNS 
+</br>
+<div align="center">
+<a href="https://velog.io/@dnjsgml418"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+</div>
+
+
+<!-- 
+#### <div align="center">I'm web developer using Java Spring boot. 👋</div> 
+#### <div align="center">🍎</div>
+#### <div align="center">🍏</div> -->
