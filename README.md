@@ -1,11 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&text=Welcome!&fontAlign=80&fontAlignY=20&fontSize=50&fontColor=fff&rotate=14&desc=Wonhee's%20git%hub%&descSize=18&descAlign=85&descAlignY=35&color=0:fff,100:6868AC&height=200)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonhee418%2Fhit-counter&count_bg=%233291F5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## <div align="center">
+
+<div>
 <h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"> Hi 👋</h1>
 <span>🙍‍♂️ Wonhee Kim  |  💻 Back-end Developer  |  <img src="https://media.giphy.com/media/7A80i85TlA7v3syRcV/giphy.gif" width="30"> Seoul , Korea</span>
+    
+<br>
+<br>
+    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonhee418%2Fhit-counter&count_bg=%233291F5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+    
 </div>
+
 
 ### About Me:
 ```java
@@ -36,19 +43,17 @@ public class UserService {
 }
 ```
 
-<div align="center">
-  
-<!-- ![Wonhee’s GitHub stats](https://github-readme-stats.vercel.app/api?username=wonhee418&show_icons=true&theme=graywhite) -->
-  
-</div>  
-
-
+##  SNS 
 </br>
-
+<div style="">
+<a href="https://velog.io/@dnjsgml418"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
+<a href="https://www.instagram.com/wonhee____/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+</div>
+</br>
 
 ## 🏋🏼‍♀️ Skills
 </br>
-<div align="center">
+<div>
 <img src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
@@ -64,7 +69,7 @@ public class UserService {
 
 ## 💻 Tools 
 </br>
-<div align="center">
+<div class="test">
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
@@ -77,15 +82,13 @@ public class UserService {
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 </div>
 
-##  SNS 
-</br>
-<div align="center">
-<a href="https://velog.io/@dnjsgml418"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
-</div>
+
 
 
 <!-- 
 #### <div align="center">I'm web developer using Java Spring boot. 👋</div> 
 #### <div align="center">🍎</div>
-#### <div align="center">🍏</div> -->
+#### <div align="center">🍏</div>
+<div><![Wonhee’s GitHub stats](https://github-readme-stats.vercel.app/api?username=wonhee418&show_icons=true&theme=graywhite)></div>  
+-->
+
