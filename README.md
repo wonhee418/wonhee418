@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&text=Welcome!&fontSize=60&desc=Wonhee's%20git%hub%&descSize=18&descAlign=58&color=0:23555555,100:233291F5&height=300)
+![header](https://capsule-render.vercel.app/api?type=Slice&text=Welcome!&fontAlign=80&fontAlignY=20&fontSize=50&fontColor=fff&rotate=14&desc=Wonhee's%20git%hub%&descSize=18&descAlign=85&descAlignY=35&color=0:fff,100:6868AC&height=200)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonhee418%2Fhit-counter&count_bg=%233291F5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
