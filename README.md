@@ -2,7 +2,10 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwonhee418%2Fhit-counter&count_bg=%233291F5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## <div align="center"> Hi ! I'm Wonhee Kim </div>
+## <div align="center">
+<h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"> Hi 👋</h1>
+<span>🙍‍♂️ Wonhee Kim  |  💻 Back-end Developer  |  <img src="https://media.giphy.com/media/7A80i85TlA7v3syRcV/giphy.gif" width="30"> Seoul , Korea</span>
+</div>
 
 ### About Me:
 ```java
@@ -15,20 +18,17 @@ public class UserService {
     public MeResponseDto introduce() throws IllegalArgumentException {
         Me me = Me.builder()
                 .name("김원희")
-                .age(27)
                 .birth(19960418)
                 .bloodType("A")
                 .MBTI("ISFP")
+                .position("Back-end")
                 .build();
                 
         meRepository.save(me);
         
         return MeResponseDto.builder()
                 .name(me.getName())
-                .age(me.getAge())
-                .birth(me.getBirth())
-                .bloodType(me.getBloodType)
-                .MBTI(me.getMBTI)
+                ...
                 .build();
     }
 }
