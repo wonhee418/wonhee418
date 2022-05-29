@@ -4,6 +4,36 @@
 
 ## <div align="center"> Hi ! I'm Wonhee Kim </div>
 
+### About Me:
+```java
+@Service
+@RequiredArgsConstructor
+public class UserService {
+
+    private final MeRepository meRepository;
+    
+    public MeResponseDto introduce() throws IllegalArgumentException {
+        Me me = Me.builder()
+                .name("김원희")
+                .age(27)
+                .birth(19960418)
+                .bloodType("A")
+                .MBTI("ISFP")
+                .build();
+                
+        meRepository.save(me);
+        
+        return MeResponseDto.builder()
+                .name(me.getName())
+                .age(me.getAge())
+                .birth(me.getBirth())
+                .bloodType(me.getBloodType)
+                .MBTI(me.getMBTI)
+                .build();
+    }
+}
+```
+
 #### <div align="center">I'm web developer using Java Spring boot. 👋</div> 
 #### <div align="center">🍎</div>
 #### <div align="center">🍏</div>
