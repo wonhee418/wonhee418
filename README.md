@@ -4,7 +4,7 @@
 
 <div>
 <h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"> Hi 👋</h1>
-<span>🙍‍♂️ Wonhee Kim  |  💻 Back-end Developer  |  <img src="https://media.giphy.com/media/7A80i85TlA7v3syRcV/giphy.gif" width="30"> Seoul , Korea</span>
+<span>🙍‍♂️ Wonhee Kim  |  💻 Front-end Developer  |  <img src="https://media.giphy.com/media/7A80i85TlA7v3syRcV/giphy.gif" width="30"> Seoul , Korea</span>
     
 <br>
 <br>
@@ -15,32 +15,18 @@
 
 
 ### About Me:
-```java
-@Service
-@RequiredArgsConstructor
-public class UserService {
+```javascript
 
-    private final MeRepository meRepository;
-    
-    public MeResponseDto introduce() throws IllegalArgumentException {
-        Me me = Me.builder()
-                .name("김원희")
-                .gender("male")
-                .birth(19960418)
-                .bloodType("A")
-                .MBTI("ISFP")
-                .position("Backend Developer")
-                .hobby("music🎧🎤, Bowling🎳, Ping-pong🏓, games🎮, movies🎬, guitar🎸")
-                .build();
-                
-        meRepository.save(me);
-        
-        return MeResponseDto.builder()
-                .name(me.getName())
-                ...
-                .build();
-    }
+const Me = {
+    name : "김원희",
+    gender : "male",
+    birth : 19960418,
+    bloodType : "A",
+    MBTI : "ISFP",
+    position : "Frontend Developer",
+    hobby : "music🎧🎤, Bowling🎳, Ping-pong🏓, games🎮, movies🎬, guitar🎸"
 }
+
 ```
 
 ##  SNS 
@@ -54,23 +40,15 @@ public class UserService {
 ## 🏋🏼‍♀️ Skills
 </br>
 <div>
-<img src="https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white">
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
-<!-- <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> -->
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
-<!-- <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"> -->
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-%2300f?style=for-the-badge&logo=mysql&logoColor=white">
-<!-- <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white"> -->
-<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=WebRTC&logoColor=white">
 </div>  
 </br>
 
 ## 💻 Tools 
 </br>
 <div class="test">
-<img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">
 <!-- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> -->
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white">
