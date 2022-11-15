@@ -24,7 +24,6 @@ const Me = {
     bloodType : "A",
     MBTI : "ISFP",
     position : "Frontend Developer",
-    hobby : "music🎧🎤, Bowling🎳, Ping-pong🏓, games🎮, movies🎬, guitar🎸"
 }
 
 ```
