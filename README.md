@@ -15,35 +15,29 @@
 
 
 ### About Me:
-```javascript
-
+```ts
 const Me = {
     name : "김원희",
     gender : "male",
     birth : 19960418,
-    bloodType : "A",
     MBTI : "ISFP",
     position : "Frontend Developer",
 }
 
 ```
 
-##  SNS 
-</br>
-<div style="">
-<a href="https://velog.io/@dnjsgml418"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
-<a href="https://www.instagram.com/wonhee____/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-</div>
-</br>
 
-## 🏋🏼‍♀️ Skills
+## 🏋🏼‍♀️ Tech Stack
 </br>
 <div>
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/ReactQuery-ff4154?style=for-the-badge&logo=ReactQuery&logoColor=white">
+<img src="https://img.shields.io/badge/Recoil-000000?style=for-the-badge&logo=Recoil&logoColor=white">
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white">
 <img src="https://img.shields.io/badge/jQuery-%230769AD?style=for-the-badge&logo=jQuery&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-%2300f?style=for-the-badge&logo=mysql&logoColor=white">
-
 </div>  
 </br>
 
