@@ -3,8 +3,8 @@
 
 
 <div>
-<h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"> Hi 👋</h1>
-<span>🙍‍♂️ Wonhee Kim  |  💻 Front-end Developer  |  <img src="https://media.giphy.com/media/7A80i85TlA7v3syRcV/giphy.gif" width="30"> Seoul , Korea</span>
+<!-- <h1><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"> Hi 👋</h1>
+<span>🙍‍♂️ Wonhee Kim  |  💻 Front-end Developer  |  <img src="https://media.giphy.com/media/7A80i85TlA7v3syRcV/giphy.gif" width="30"> Seoul , Korea</span> -->
     
 <br>
 <br>
